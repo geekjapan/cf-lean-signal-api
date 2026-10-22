@@ -14,5 +14,9 @@
   "body_reuse": [],
   "warnings": [],
   "unclassified_count": 1,
-  "excluded_or_conversion_failed": []
+  "excluded_or_conversion_failed": [],
+  "scope": "All Graphify-supported files discovered in this project; unsupported file extensions, ignored build/dependency directories and sensitive-name exclusions are not claimed as parsed.",
+  "unreadable_sources": [],
+  "media": [],
+  "office_conversions": []
 }
